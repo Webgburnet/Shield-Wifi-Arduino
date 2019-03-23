@@ -9,7 +9,7 @@
 ![Fritzing]()
 
 ### Shield
-* NC
+* Shield-Wifi-Arduino
 
 ### Analogique
 * A0: NC
@@ -24,16 +24,16 @@
 * D1 : TX rs232 non utilise
 * D2 : NC
 * D3 : NC
-* D4 : NC
+* D4 : SS Shield-Wifi-Arduino carte SD
 * D5 : NC
 * D6 : NC
-* D7 : NC
+* D7 : Shield-Wifi-Arduino
 * D8 : NC
 * D9 : NC
-* D10 : NC
-* D11 : NC
-* D12 : NC
-* D13 : NC 
+* D10 : SS Shield-Wifi-Arduino WiFi
+* D11 : MOSI Shield-Wifi-Arduino
+* D12 : MISO Shield-Wifi-Arduino
+* D13 : SCK Shield-Wifi-Arduino
 
 ### I2C
 * SDA : NC
