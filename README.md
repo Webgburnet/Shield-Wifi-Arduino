@@ -13,13 +13,12 @@
 ### Arduino
 | Arduino Mega  | Arduino Uno |
 | :-------------: | :-------------: |
-| ![](/composants/Arduino%20Mega.jpg) |
+| ![](/composants/Arduino%20Mega.jpg) | ![](/composants/Arduino%20Uno.jpg) |
 
 ### Shield
-| Shield Ethernet | Shield WiFi |
-| :-------------: | :-------------: |
-| ![](/composants/Shield_Arduino_Ethernet.jpg) | ![](/composants/Arduino%20WiFi%20Shield.jpg) |
-| Shield Grove base | Shield Grove Mega |
+| Shield WiFi |
+| :-------------: |
+| ![](/composants/Arduino%20WiFi%20Shield.jpg) |
 
 ## Branchement
 | Fritzing |
